@@ -1,1 +1,20 @@
 
+In version control systems like Git, commit and push are two distinct operations, though they are often used together in a workflow.
+
+Commit:
+Local Operation: A commit saves changes to your local repository.
+Snapshot: A commit represents a snapshot of your working directory, capturing the state of the files at that point.
+Message: Each commit usually includes a commit message, which describes the changes made in that commit.
+Version History: Commits are part of the version history, and you can revert to or review any previous commit.
+
+
+Push:
+Remote Operation: A push sends the commits from your local repository to a remote repository (e.g., on GitHub, GitLab, or Bitbucket).
+Synchronization: Pushing allows others to see and access your commits, making them available for collaboration.
+Branch Update: When you push, you update the branch on the remote repository with your latest commits.
+
+
+In Summary:
+Commit: Saves changes to your local repository.
+Push: Sends your local commits to a remote repository.
+You typically commit your changes locally and then push them to share them with others or to back them up remotely.
